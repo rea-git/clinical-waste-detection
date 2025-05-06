@@ -12,6 +12,9 @@ This project aims to detect clinical waste through image classification. The mod
 1. Clone the repository:
    ```bash
    git clone https://github.com/rea-git/clinical-waste-detection.git
+# Accuracy of the trained model
 ![Accuracy](./accuracy.png)
+# Loss of the Trained Model
 ![Loss](./loss.png)
+# Sample Prediction of the model
 ![Sample Prediction](./sample-prediction.png)
