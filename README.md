@@ -1,5 +1,4 @@
 # clinical-waste-detection
-# Clinical Waste Detection
 
 ### Tools Used:
 - **TensorFlow** – Used for building and training machine learning models to classify clinical waste.
@@ -12,7 +11,7 @@ This project aims to detect clinical waste through image classification. The mod
 ### How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clinical-waste-detection.git
-![Accuracy](./assets/logo.png)
-![Loss](./assets/logo.png)
-![Sample Prediction](./assets/logo.png)
+   git clone https://github.com/rea-git/clinical-waste-detection.git
+![Accuracy](./accuracy.png)
+![Loss](./loss.png)
+![Sample Prediction](./sample-prediction.png)
